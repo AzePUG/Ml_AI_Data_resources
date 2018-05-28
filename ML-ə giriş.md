@@ -1,7 +1,7 @@
 # "Machine learning"-ə giriş
 
 Machine learning.. Yəqin ki, son bir neçə ildə bu haqda eşitmisiniz. Ən azından,
-bunu oxuyursunuzsa, demək ki, elədir. Bu haqda demək olar ki, azərbazcan dilində heç bir
+bunu oxuyursunuzsa, demək ki, elədir. Bu haqda demək olar ki, azərbaycan dilində heç bir
 resurs yoxdur. O üzdən, gəlin ilk öncə "machine learning" nədir sualına cavab tapaq.
 
 # Machine learning nədir?
