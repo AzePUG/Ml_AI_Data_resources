@@ -13,7 +13,7 @@
 
 # İlkin anlayışlar
 
-Bu dəfəki yazımda Python Data Science ekosisteminin ən vacib elementlərindən biri olan Pandas proqram kitabxanası haqqında danışacağam. Vikipediyaya inansaq, Pandas öz adını ekonometrik termin olan və riyaziyyatçılar arasında çox istifadə edilən PANel DAta Structures (panel tipli veirlənlər sturkturu) sözündən götürüb. Belə ki, bu kifayət qədər inandırıcı bir məlumatdır. Çünki, Pandas dmeək olar ki, bütün verilənlər tipi ilə işləməyə yararlıdır:
+Bu dəfəki yazımda Python Data Science ekosisteminin ən vacib elementlərindən biri olan Pandas proqram kitabxanası haqqında danışacağam. Vikipediyaya inansaq, Pandas öz adını ekonometrik termin olan və riyaziyyatçılar arasında çox istifadə edilən PANel DAta Structures (panel tipli veirlənlər sturkturu) sözündən götürüb. Belə ki, bu kifayət qədər inandırıcı bir məlumatdır. Çünki, Pandas dmeək olar ki, bütün verilənlər tipi ilə işləyə bilir:
 
 - SQL və Excel tipli verilənlər. Bunlara həm də, cədvəl tipli verilənlər deyilir (tabular data)
 - Sıralı və sırasız zaman seriyaları (time series)
